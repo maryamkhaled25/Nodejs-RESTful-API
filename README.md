@@ -1,7 +1,8 @@
 "# Nodejs-RESTful-API" 
 
 //========= Node.js RESTful API for Students, Courses, and Departments ==============
-A lightweight and efficient RESTful API built with Node.js for managing students, courses, and departments. This project demonstrates core backend concepts, including CRUD operations, file-based storage, and data relationships.
+A lightweight and efficient RESTful API built with Node.js for managing students, courses, and departments. 
+This project demonstrates core backend concepts, including CRUD operations, file-based storage, and data relationships.
 
 -----------------------------------------------------------
 
