@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "Ahmed",
+        "Email": "Ahmed@route",
+        "Password": "123",
+        "DepId": 1,
+        "ID": 1
+    },
+    {
+        "Name": "Omar",
+        "Email": "Omar@route",
+        "Password": "321",
+        "DepId": 3,
+        "id": 2
+    },
+    {
+        "Name": "Ali",
+        "Email": "Ali@route",
+        "Password": "123",
+        "DepId": 2,
+        "id": 3
+    },
+    {
+        "Name": "Ola",
+        "Email": "Ola@route",
+        "Password": "231",
+        "DepId": 3,
+        "id": 4
+    }
+]

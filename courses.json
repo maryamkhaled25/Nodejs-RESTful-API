@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Information System",
+        "content": "this is course",
+        "departmentID": 2,
+        "id": 1
+    },
+    {
+        "name": "Computer Science",
+        "content": "this is course",
+        "departmentID": 3,
+        "id": 2
+    },
+    {
+        "name": "Artificail Intelligence",
+        "content": "this is course",
+        "departmentID": 2,
+        "id": 3
+    },
+    {
+        "name": "Data Analysis",
+        "content": "this is course",
+        "departmentID": 1,
+        "id": 4
+    }
+]
